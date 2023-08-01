@@ -11,9 +11,7 @@ header{
 	background-color: #011e29;
 	color: white;
 	height: 70px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	text-align: center;
 }
 div{
 	position: relative;
@@ -23,7 +21,7 @@ div{
 	margin: 5px 15px;
 	
 }
-.news{
+.latest-news-section{
 	flex: 1;
 	text-align: center;
 	padding: 5px;
@@ -38,7 +36,7 @@ div{
 img{
 	margin-bottom: 10px;
 }
-.picture{
+.pictorial-news-section{
 	flex: 1;
 	text-align: center;
 	padding: 5px;
